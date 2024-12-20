@@ -9,6 +9,7 @@ Features:
 - Dislays Music Status Bar
 - Cover Image Spins When Playing Music
 - Automatic Updated
+- Automatic Disappear When Music Is Pause Or Not Playing [No Additional Setup In OBS Needed]
 
 
 ------------
