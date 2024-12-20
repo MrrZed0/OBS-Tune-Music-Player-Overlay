@@ -1,2 +1,1 @@
-# OBS-Tune-Music-Player-Overlay
-OBS Tune Music Player Overlay
+![Test Image 1](https://github.com/MrrZed0/OBS-Tune-Music-Player-Overlay/blob/main/Untitled.png?raw=true)
