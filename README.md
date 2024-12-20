@@ -7,6 +7,7 @@ Features:
 ---------
 - Displays Artists, Song Title & Cover Picture
 - Dislays Music Status Bar
+- Cover Image Spins When Playing Music
 - Automatic Updated
 
 
