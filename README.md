@@ -17,6 +17,7 @@ Requirements
 ------------
 - OBS-Studio
 - OBS Plug-In Tuna: https://obsproject.com/forum/resources/tuna.843/
+- Streamer.bot YouTube Music App Request Song System (Optional) https://extensions.streamer.bot/t/youtube-music-integration-with-controls/777
 
 
 ---------
